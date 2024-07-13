@@ -6,4 +6,4 @@ Developed a deep learning model to classify images of BTS members using convolut
 Created using TensorFlow, Keras, Python, OpenCV, and Matplotlib. CNN architecture from https://keras.io/examples/vision/image_classification_from_scratch/.
 
 
-
+Outcome: Proves once and for all that the members of BTS do not all look alike.
